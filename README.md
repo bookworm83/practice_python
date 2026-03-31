@@ -8,5 +8,5 @@ Cat years, Dog years https://www.codewars.com/kata/5a6663e9fd56cb5ab800008b/pyth
 
 Grasshopper - Debug https://www.codewars.com/kata/55cb854deb36f11f130000e1/python grasshopper_debug.py
 
-
+Split Strings https://www.codewars.com/kata/515de9ae9dcfc28eb6000001/train/python split_strings.py
 
